@@ -1,6 +1,8 @@
 # RFM-Analysis-Using-Statistics
-This my RFM Analysis project. 
-Lookout my RFM Word Document to check what is RFM Analysis and why it is important. Data for RFM Excel file contains raw data which tells us about our Customer id, Order Number, Sales, Order Date and on sheet 2 there is table on which we have to rate our customer segment on the basis of the RFM score.
+This my RFM Analysis project. RFM Analysis is a businees concept.
+Lookout my RFM Word Document to check what is RFM Analysis and why it is important. 
+
+Data for RFM Excel file contains raw data which tells us about our Customer id, Order Number, Sales, Order Date and on sheet 2 there is table on which we have to rate our customer segment on the basis of the RFM score.
 
 RFM Project contains my project - 
 On first sheet you will find the raw which we analyzed and formatted a little.
